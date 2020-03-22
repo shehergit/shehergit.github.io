@@ -1,8 +1,6 @@
 ---
 title: Meet Bria!
-description: Bria Weathers is a current MSBA student at The College of William & Mary. Bria loves learning new things and overcoming challenges. After several years in the IT work force, she decided to further her career and knowledge in Data Science.
-
-Bria also loves to kick back and relax by spending time with her family and friends, working out or hiking with her fiancé, trying new foods and cocktails, traveling, and expressing her artistic side by creating unique make-up and hair looks.
+description: Bria Weathers is a current MSBA student at The College of William & Mary. Bria loves learning new things and overcoming challenges. After several years in the IT work force, she decided to further her career and knowledge in Data Science. Bria also loves to kick back and relax by spending time with her family and friends, working out or hiking with her fiancé, trying new foods and cocktails, traveling, and expressing her artistic side by creating unique make-up and hair looks.
 ---
 
 ![My Picture](/pics/rosegarden.jpg)
