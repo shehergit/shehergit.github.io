@@ -7,6 +7,9 @@ description: Bria Weathers is a current MSBA student at The College of William &
 
 
 ## This is content I've developed for my courses:
+- [Time Series Decomposition (html)](TimeSeriesDecomposition.html)
+- [Time Series Decomposition (ipynb)](TimeSeriesDecomposition.ipynb)
+You can also visit course content here:
 - [Time Series Decomposition](/timeseries/index.md)
 
 ## This is a poor place to link to a repository, but here is such a link:
