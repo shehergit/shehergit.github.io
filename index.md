@@ -10,7 +10,7 @@ description: Bria Weathers is a current MSBA student at The College of William &
 - [Time Series Decomposition (html)](TimeSeriesDecomposition.html)
 - [Time Series Decomposition (ipynb)](TimeSeriesDecomposition.ipynb)
 
-You can also visit course content here:
+## You can also visit course content page here:
 - [Time Series Decomposition](/timeseries/index.md)
 
 ## This is a poor place to link to a repository, but here is such a link:
@@ -18,5 +18,4 @@ You can also visit course content here:
 
 
 ## One of my Youtube videos:
-
 [![DIY Hair Mask](https://img.youtube.com/vi/vaatGxTaz8c/0.jpg)](http://www.youtube.com/watch?v=vaatGxTaz8c)
