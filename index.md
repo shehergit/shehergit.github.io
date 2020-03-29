@@ -7,7 +7,8 @@ description: Bria Weathers is a current MSBA student at The College of William &
 
 
 ## This is content I've developed for my courses:
-- <video src="Construction Analysis.mp4" width="320" height="200" controls preload></video>
+- Analytics Presentation:
+  <video src="Construction Analysis.mp4" width="320" height="200" controls preload></video>
 - [Time Series Decomposition (html)](TimeSeriesDecomposition.html)
 - [Time Series Decomposition (ipynb)](TimeSeriesDecomposition.ipynb)
 
